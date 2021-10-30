@@ -12,7 +12,7 @@ export const NetonnetNO: Store = {
     },
     outOfStock: {
       container: '[id^="BuyButton_ProductPageStandard_"]',
-      text: ['Overvåk produktet'],
+      text: ['Overvåk produktet', 'Ikke på lager'],
     },
   },
   links: [
