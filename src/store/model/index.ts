@@ -48,6 +48,7 @@ import {BT} from './bt';
 import {CanadaComputers} from './canadacomputers';
 import {Caseking} from './caseking';
 import {Ccl} from './ccl';
+import {CdonNO} from './cdon-no';
 import {Centrecom} from './centrecom';
 import {Comet} from './comet';
 import {ComputerAlliance} from './computeralliance';
@@ -217,6 +218,7 @@ export const storeList = new Map([
   [CanadaComputers.name, CanadaComputers],
   [Caseking.name, Caseking],
   [Ccl.name, Ccl],
+  [CdonNO.name, CdonNO],
   [Centrecom.name, Centrecom],
   [Comet.name, Comet],
   [ComputerAlliance.name, ComputerAlliance],

@@ -83,6 +83,7 @@ Used with the `STORES` variable.
 | CanadaComputers | CA | `canadacomputers` |
 | Caseking | DE | `caseking`|
 | CCL | UK | `ccl`|
+| CDON | NO | `cdon-no`|
 | Centrecom | AU | `centrecom`|
 | Comet | IT | `comet`|
 | ComputerAlliance | AU | `computeralliance`|
