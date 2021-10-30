@@ -128,6 +128,7 @@ Used with the `STORES` variable.
 | iGame Computer | AU |  `igame-computer`|
 | John Lewis | UK | `johnlewis`|
 | Kabum | BR | `kabum`|
+| Kjell & Company | NO | `kjellcompany-no`|
 | Komplett | NO | `komplett-no`|
 | Landmark Computers | AU |  `landmark-computers`|
 | Ldlc | FR |  `ldlc`|
