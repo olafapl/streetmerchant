@@ -754,6 +754,18 @@ export const KomplettNO: Store = {
       series: '3090',
       url: 'https://www.komplett.no/product/1168126/',
     },
+    {
+      brand: 'microsoft',
+      model: 'xbox series x',
+      series: 'xboxsx',
+      url: 'https://www.komplett.no/product/1132588/',
+    },
+    {
+      brand: 'microsoft',
+      model: 'xbox series s',
+      series: 'xboxss',
+      url: 'https://www.komplett.no/product/1168808/',
+    },
   ],
   name: 'komplett-no',
 };
