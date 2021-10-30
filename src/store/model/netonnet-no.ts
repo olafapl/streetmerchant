@@ -269,6 +269,18 @@ export const NetonnetNO: Store = {
       series: '3090',
       url: 'https://www.netonnet.no/art/datakomponenter/skjermkort/nvidia/gigabyte-geforce-rtx-3090-vision-oc-24gb/1015516.11111/',
     },
+    {
+      brand: 'microsoft',
+      model: 'xbox series x',
+      series: 'xboxsx',
+      url: 'https://www.netonnet.no/art/gaming/spillogkonsoll/xbox/xbox-konsoll/microsoft-xbox-series-x/1011151.15694/',
+    },
+    {
+      brand: 'microsoft',
+      model: 'xbox series s',
+      series: 'xboxss',
+      url: 'https://www.netonnet.no/art/gaming/spillogkonsoll/xbox/xbox-konsoll/microsoft-xbox-series-s/1012885.15694/',
+    },
   ],
   name: 'netonnet-no',
 };
