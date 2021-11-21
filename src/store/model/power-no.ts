@@ -4,12 +4,12 @@ export const PowerNO: Store = {
   currency: 'kr.',
   labels: {
     inStock: {
-      container: '.buy-area > .buy-area__webshop > button',
-      text: ['Legg til handlekurv'],
+      container: '.stock-details .stock-available',
+      text: ['på nettlager'],
     },
     outOfStock: {
-      container: '.buy-area > .buy-area__webshop > button',
-      text: ['Ikke på lager'],
+      container: '.stock-details .stock-unavailable',
+      text: ['Ikke på nettlager'],
     },
   },
   links: [
